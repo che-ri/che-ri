@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Che-ri&fontAlign=70&fontAlignY=40&animation=twinkling)
 
-<div align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/che-ri?style=social"> <a href="https://github.com/che-ri"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fche-ri&count_bg=%23A6A9AA&title_bg=%234B1E78&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <a href="https://cheri.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcheri.tistory.com&count_bg=%23A6A9AA&title_bg=%234B1E78&icon=tidal.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
 <h3 align="center">👋 Hi! there!</h3>
 
 <h3 align="center">📌Stack</h3>
