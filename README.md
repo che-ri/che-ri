@@ -8,3 +8,6 @@
 
 <h3 align="center">📫Contact</h3>
 <div align="center"><a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Cheri-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> <a href="rnjs1135@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
