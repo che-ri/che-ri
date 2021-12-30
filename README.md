@@ -40,16 +40,16 @@ Sunday       54 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSX                      1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-apartmentary_datatagadmin1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -65,5 +65,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
