@@ -9,7 +9,7 @@
 <div align="center"><a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Cheri-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> <a href="rnjs1135@gmail.com"> &nbsp <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C921%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%2014%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -40,18 +40,18 @@ Sunday       15 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     18 hrs 24 mins      ████████████████████████░   99.26% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+Dart                     17 hrs 6 mins       ████████████████████████░   99.21% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
 🔥 Editors: 
-VS Code                  18 hrs 32 mins      █████████████████████████   100.0%
+VS Code                  17 hrs 14 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-fiet-client              18 hrs 32 mins      █████████████████████████   100.0% 
+fiet-client              17 hrs 14 mins      █████████████████████████   100.0% 
 flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      18 hrs 32 mins      █████████████████████████   100.0%
+Mac                      17 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
@@ -68,5 +68,5 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 18:42:25 UTC
+ Last Updated on 13/12/2022 18:40:59 UTC
 <!--END_SECTION:waka-->
