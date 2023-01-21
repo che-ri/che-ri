@@ -9,7 +9,7 @@
 <div align="center"><a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Cheri-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> <a href="rnjs1135@gmail.com"> &nbsp <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2029%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -74,5 +74,5 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2023 18:40:51 UTC
+ Last Updated on 21/01/2023 18:38:16 UTC
 <!--END_SECTION:waka-->
