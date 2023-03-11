@@ -9,7 +9,7 @@
 <div align="center"><a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Cheri-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> <a href="rnjs1135@gmail.com"> &nbsp <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C110%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C110%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -67,5 +67,5 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 18:38:38 UTC
+ Last Updated on 11/03/2023 18:36:46 UTC
 <!--END_SECTION:waka-->
