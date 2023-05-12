@@ -31,7 +31,7 @@
 <h1>👩🏼‍💻Code Time</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C145%20hrs%2039%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -92,5 +92,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2023 18:37:29 UTC
+ Last Updated on 12/05/2023 18:37:33 UTC
 <!--END_SECTION:waka-->
