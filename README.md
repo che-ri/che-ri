@@ -31,8 +31,6 @@
 <h1>👩🏼‍💻Code Time</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C070%20hrs%2039%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -91,5 +89,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:45:45 UTC
+ Last Updated on 15/02/2025 18:41:50 UTC
 <!--END_SECTION:waka-->
