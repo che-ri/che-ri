@@ -31,7 +31,7 @@
 <h1>👩🏼‍💻Code Time</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C875%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C875%20hrs%2040%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,16 +60,17 @@ Sunday                   263 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     33 mins             █████████████████████████   99.86 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+drpalette-app            33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +86,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2025 18:48:46 UTC
+ Last Updated on 14/10/2025 18:50:10 UTC
 <!--END_SECTION:waka-->
