@@ -60,17 +60,16 @@ Sunday                   263 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     36 mins             ████████████████████████░   96.29 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-drpalette-workspace      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +85,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2026 19:31:04 UTC
+ Last Updated on 19/03/2026 19:29:01 UTC
 <!--END_SECTION:waka-->
