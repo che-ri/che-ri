@@ -60,16 +60,17 @@ Sunday                   263 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     6 mins              ███████████████████████░░   92.46 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+drpalette-app            7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +86,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2026 19:03:13 UTC
+ Last Updated on 23/03/2026 19:28:23 UTC
 <!--END_SECTION:waka-->
